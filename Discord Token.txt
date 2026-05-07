@@ -1,0 +1,5 @@
+MTQzMDIxMjIxODk5Mjk4NDEyNQ.GgWoDK.0socHWv1N0KY5NccsSWz2PBhYtAMp2HvDkshlg
+
+cd C:\Users\Refaa\OneDrive\Desktop\osrs_bot
+venv\Scripts\activate
+python bot.py
